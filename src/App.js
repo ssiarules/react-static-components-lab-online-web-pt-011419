@@ -11,6 +11,7 @@ class App extends Component {
 				<CatComponent/>
 				<EinsteinQuoteComponent />
 				<MouseComponent/>
+				<rippleStartStatus/>
 			</div>
 		);
 	}
